@@ -1,0 +1,526 @@
+﻿@model Aggregator.Models.BuyTicketViewModel
+@{
+    ViewData["Title"] = "Basket";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BENAUR </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="~/css/slick.css">
+    <link rel="stylesheet" href="~/css/slick-theme.css">
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <link rel="stylesheet" href="~/css/style.min.css">
+    <link rel="stylesheet" href="~/css/media.min.css">
+    <link rel="shortcut icon" href="~/images/fav_agr.webp" type="image/x-icon">
+    @*<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,100' rel='stylesheet' type='text/css'>*@
+
+
+</head>
+<body>
+
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <div class="d-flex menu-wrap menu-unactive ">
+        <div class="menu-top basket-menu">
+            <div class="menu-back-btn"><img class="lazyload" src="/images/menu.png" width="20" alt=""></div>
+            <div class="custom-select">
+                <select class="mobile-hide m-select top-header-select" name="" id="">
+                    <option value="Chicago IL">Chicago IL</option>
+                    <option value="St. Augistine FL">St. Augistine FL</option>
+
+                </select>
+            </div>
+
+        </div>
+        <div class="menu-footer">
+            <div class="footer-title">Contact us</div>
+            <div class="footer-info-block"><div class="footer-info-img"><img class="lazyload" data-src="/images/phone.svg" alt=""></div><span class="text-font">+380502233133</span></div>
+            <div class="footer-info-block"><div class="footer-info-img"><img class="lazyload" data-src="/images/letter.svg" alt=""></div><span>micro@gmail.com</span></div>
+            <div class="footer-info-block"><div class="footer-info-img"><img class="lazyload" data-src="/images/location-white.svg" alt=""></div><span>St. Augustine, FL <span class="class=" text-font"">32084</span> </span></div>
+            <div class="footer-title footer-title-m">Hours open <span class="text-font">365</span> days</div>
+            <div class="d-flex footer-r-f">
+                <div>Monday:</div>
+                <div>10 am - 11 pm</div>
+            </div>
+            <div class="d-flex footer-r-f">
+                <div>Tuesday:</div>
+                <div>10 am - 11 pm</div>
+            </div>
+            <div class="d-flex footer-r-f">
+                <div>Wednesday:</div>
+                <div>10 am - 11 pm</div>
+            </div>
+            <div class="d-flex footer-r-f">
+                <div>Thursday:</div>
+                <div>10 am - 11 pm</div>
+            </div>
+            <div class="d-flex footer-r-f">
+                <div>Friday:</div>
+                <div>10 am - 11 pm</div>
+            </div>
+            <div class="d-flex footer-r-f">
+                <div>Saturday:</div>
+                <div>10 am - 11 pm</div>
+            </div>
+            <div class="d-flex footer-r-f">
+                <div>Sunday:</div>
+                <div>10 am - 11 pm</div>
+            </div>
+        </div>
+    </div>
+    <div class="section-padding basket-page">
+        <div class="top-header-wrap">
+            <div>
+                <div class="d-flex top-header container basket-header">
+                    <div class="menu-btn"><img class="lazy" src="/images/menu-unactive.png" height="20" alt=""></div>
+                    <div class="top-header-title"><a target="_blank" href="http://aggregatorcore-test.us-west-2.elasticbeanstalk.com">Our main attraction is Emotion!</a></div>
+                    <div class="mobile-title">Chicago</div>
+                    <div class="d-flex top-header-r">
+                        <div class="mobile-hide">Choose your city:</div>
+                        <div class="custom-select">
+                            <select class="mobile-hide m-select top-header-select target" name="" id="cities">
+                                <option value="Chicago IL">Chicago IL</option>
+                                <option value="St. Augistine FL">St. Augistine FL</option>
+
+                            </select>
+                        </div>
+                        <a class="top-header-cart" target="_blank" asp-action="Basket" asp-route-PromoCode="@Model.PromoCode">
+                            <img src="/images/cart.svg" alt="">
+                            <div class="d-flex top-header-cart-counter">0</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="title-ribbon title-ribbon-mobile"><img class="lazy" data-src="/images/location-white.svg" alt="">all attraction in one place! <br> <span class="mobile-hide">Come and see!</span></div>-->
+        </div>
+    </div>
+    <div class="container basket-table">
+        <form action="/" method="post" id="radioForm" onsubmit="return checkForm(this);">
+            <div class="d-flex b-header">
+                <div>* Medieval torture collection contains depictions that may not be suitable for children</div>
+                <div>* For child under 3 is free!</div>
+                <div>* Groups of 10 + should inquire additional discounts</div>
+            </div>
+            <div class="b-table">
+                <div>
+                    <div>Your tickets</div>
+                    <div>Type</div>
+                    <div>Qty</div>
+                    <div>Original price</div>
+                    <div class="b-table-green">Discount/Save</div>
+                    <div>Price</div>
+                </div>
+
+            </div>
+            <div class="b-d-flex b-checks">
+                <div class="audio-gide" style="display: none;">
+                    <div>Audio gide medieval torture museum <span class="text-font">$ 1.99</span></div>
+                    <div class="d-flex b-checkes-flex audio-checkes">
+                        <div><input type="radio" name="1" class="radio1" required oninvalid="this.setCustomValidity('Please choose one of the options')"><span>yes</span></div>
+                        <div><input type="radio" name="1" class="radio1"><span>no</span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="b-d-flex b-checks">
+                <div class="audio-gide" s-checkes-flex>
+                    <div class="d-flex info-flex">Super pass <span class="text-font">$ 20.00</span><img src="~/images/info.png" height="16" class="info-pass" /><span class="info-pass-title">lorem ipsum lorem </span></div>
+                    <div class="d-flex b-checkes-flex sup-checkes-flex">
+                        <div><input type="radio" name="2" class="radio2" required oninvalid="this.setCustomValidity('Please choose one of the options')"><span>yes</span></div>
+                        <div><input type="radio" name="2" class="radio2"><span>no</span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="b-d-flex b-checks">
+                <div class="audio-gide">
+                    <div class="d-flex info-flex">Insurance <span class="text-font">$ 2.00</span><img src="~/images/info.png" height="16" class="info-insurance" /><span class="info-insurance-title">lorem ipsum lorem </span></div>
+                    <div class="d-flex b-checkes-flex ins-checkes-flex">
+                        <div><input type="radio" name="3" class="radio3" required oninvalid="this.setCustomValidity('Please choose one of the options')"><span>yes</span></div>
+                        <div><input type="radio" name="3" class="radio3"><span>no</span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="b-d-flex">
+
+                <div>
+                    <div>Subtotal:</div>
+                    <div class="d-flex b-checkes-flex">
+                        <div>$<span id="basket-p-subtotal" class="text-font">0</span></div>
+                        <div></div>
+                    </div>
+                </div>
+                <div>
+                    <div>Sales tax:</div>
+                    <div class="d-flex b-checkes-flex">
+                        <div>$<span id="basket-p-sale" class="text-font">0</span></div>
+                        <div></div>
+                    </div>
+
+                </div>
+                <div class="b-total">
+                    <div>Total:</div>
+                    <div class="d-flex b-checkes-flex">
+                        <div>$<span id="basket-p-total" class="text-font">0</span></div>
+                        <div></div>
+                    </div>
+                </div>
+            </div>
+            <div class="d-flex b-city">
+                <img src="~/images/location-green.svg" alt="">
+                <span>Your city is <b id="chosen-city">St. Augistine</b></span>
+            </div>
+            <div class="b-link-terms text-center"><a class="b-blue-link" target="_blank" asp-action="Rools">Please read terms and conditions of using website</a></div>
+            <div class="text-center"><button type="submit" class="green-btn" id="basket-agree-btn">Agree</button></div>
+        </form>
+    </div>
+
+    <div class="d-flex body-modal-wrap body-modal-wrap-unactive" id="delete-modal">
+        <div class="modal-wrap">
+            <div class="b-modal-header">
+                <img src="~/images/close.jpg" onclick="$('#delete-modal').hide(); $('.modal-faded').remove();" class="close" />
+                <div class="text-center"><h4>Are you sure you want to <br />remove the ticket ? </h4></div>
+            </div>
+            <div class="b-modal-content">
+                <div class="d-flex b-info-w">
+                    <div><button id="q-delete " class="btn red-border-btn" onclick="deleteTicket()">Confirm</button></div>
+                    <div><button id="q-cancel " class="btn red-btn-cancel" onclick="$('#delete-modal').hide(); $('.modal-faded').remove();">Cancel</button></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="d-flex body-modal-wrap body-modal-wrap-unactive" id="basket-modal">
+        <form asp-action="SendToPayment" asp-route-city="@Model.City" class="modal-wrap" id="SendToPayment">
+            <input asp-for="Tikets" id="Tikets" type="hidden" />
+            <input asp-for="PromoCode" type="hidden" value="@Model.PromoCode" />
+            <input id="AudioGuide" asp-for="AudioGuide" type="hidden" value="false">
+            <input id="SuperTiket" asp-for="SuperTiket" type="hidden" value="false">
+            <input id="Insurance" asp-for="Insurance" type="hidden" value="false">
+            <input id="City" asp-for="City" type="hidden" value="@Model.City">
+
+            <div id="payment-modal-slider">
+                <div class="payment-modal-flex">
+                    <span class="close" onclick="$('#basket-modal').addClass('body-modal-wrap-unactive')">x</span>
+                    <div class="b-modal-steps text-center">
+                        <img src="~/images/b-t-2.webp" alt="">
+                    </div>
+                    <div class="b-modal-title text-center">
+                        Billing information
+                    </div>
+                    <div class="b-modal-content">
+                        <div id="b-modal-warn">Fill in all the fields</div>
+                        <div class="d-flex b-info-w">
+                            <div><span class="payment-modal-span">First name:</span><input class="b-input b-input-m" type="text" asp-for="UserInfo.Name"></div>
+                            <div><span class="payment-modal-span">Last name:</span><input class="b-input b-input-m" type="text" asp-for="UserInfo.Surname"></div>
+                        </div>
+                        <div class="d-flex b-info-w">
+                            <div><span class="payment-modal-span">E-mail:</span><input type="text" class="b-input b-input-m" asp-for="UserInfo.Email"></div>
+                            <div><span class="payment-modal-span">Phone:</span><input class="b-input b-input-m phone-number" type="tel" id="phone" asp-for="UserInfo.Phone" placeholder="(555) 555-5555"></div>
+                        </div>
+                    </div>
+                    <div class="text-center b-btn"><button class="green-btn" type="button" id="basket-c-next" disabled>Next</button></div>
+                </div>
+                <div class="payment-modal-flex">
+                    <span class="close" onclick="$('#basket-modal').addClass('body-modal-wrap-unactive')">x</span>
+                    <div class="b-modal-steps text-center">
+                        <img src="~/images/b-t-1.webp" alt="">
+                    </div>
+                    <div class="b-modal-title text-center">
+                        Payment Information
+                    </div>
+                    <div class="b-modal-content">
+                        <div class="b-modal-sr">
+                            <div class="d-flex">
+                                <div>Card number:</div>
+                                <div><input type="text" class="b-input" maxlength="19" id="txtCardNumber" asp-for="Card.CardNumber"></div>
+                            </div>
+                            <div class="d-flex">
+                                <div>Expiration date:</div>
+                                <div><input type="text" asp-for="Card.ExpiresEnd" class="b-input month-input" id="txtDate" placeholder="mm / yy" maxlength="5"></div>
+                            </div>
+                            <div class="d-flex">
+                                <div>CVV:</div>
+                                <div><input type="text" class="b-input b-input-small" placeholder="111" id="textCvv" asp-for="Card.CVV" maxlength="3"></div>
+                            </div>
+                            <div class="d-flex">
+                                <div>Zip:</div>
+                                <div><input type="text" class="b-input b-input-small" maxlength="5" id="textZip" placeholder="44778"></div>
+                            </div>
+                            @if (Model.Capcha)
+                            {
+                                <div class="d-flex">
+                                    <div class="g-recaptcha" data-sitekey="6LfDaKMUAAAAAAbTKYUiMej9iK_E53ITBqMppbyd"></div>
+                                </div>
+                            }
+
+                        </div>
+                    </div>
+                    <div class="text-center b-btn"><button class="green-btn" id="basket-c-submit" type="submit" disabled>Next</button></div>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div class="modal fade body-modal-wrap" id="messegesModal" role="dialog" style="height:300px;">
+        <div class="modal-dialog">
+
+
+            <div class="modal-content">
+                <div class="b-modal-header" id="valid">
+                    <img src="~/images/close.jpg" class="close" />
+
+                    @if (Model.Messages != null)
+                    {
+
+                        if (Model.Messages.Any(x => x.IsException))
+                        {
+                            <img src="~/images/error-img.png" alt="Alternate Text" />
+                        }
+                        else
+                        {
+                            <img src="~/images/done-img.png" alt="Alternate Text" width="50" height="50" />
+                        }
+
+                        @foreach (var item in Model.Messages)
+                        {
+                            <h4>
+                                @if (item.IsException)
+                                {<span></span>} @item.Key @item.Text
+                            </h4>
+                        }
+                    }
+
+                </div>
+                <div class="b-modal-content">
+                    @if (Model.Messages != null)
+                    {
+
+                        if (Model.Messages.Any(x => x.IsException))
+                        {
+                            <div><button id="q-cancel " class="btn red-btn-cancel">Cancel</button></div>
+                        }
+                        else
+                        {
+                            <div><button id="q-cancel " class="btn green-btn-cancel">Confirm</button></div>
+
+                        }
+
+
+                    }
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!-- Modal -->
+    <div class="modal fade body-modal-wrap" id="loaderModal" role="dialog">
+        <div class="modal-dialog">
+
+
+
+            <div class="modal-content">
+                <div class="b-modal-header" id="valid">
+                    <img src="~/images/close.jpg" class="close" onclick="$('#loaderModal').modal('hide')" />
+                    <div class="loader"></div>
+                </div>
+                <div class="b-modal-content">
+                    <p>Payment during processing - please wait, usually it does not take more than 1 minute</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/libs/slick.min.js"></script>
+    <script async src="~/js/basket.min.js"></script>
+    <script src="~/libs/jquery.maskedinput.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <style>
+        .loader {
+            border: 16px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 16px solid #3498db;
+            width: 120px;
+            height: 120px;
+            -webkit-animation: spin 2s linear infinite; /* Safari */
+            animation: spin 2s linear infinite;
+        }
+
+        /* Safari */
+        @@-webkit-keyframes spin {
+            0% {
+                -webkit-transform: rotate(0deg);
+            }
+
+            100% {
+                -webkit-transform: rotate(360deg);
+            }
+        }
+
+        @@keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+
+    <script async>
+
+        $(document).ready(function () {
+            // Show the Modal on load
+            let li = $('#valid h4');
+            if (li.length > 0) {
+                $("#messegesModal").modal("show");
+            }
+            $("#phone").mask("(999) 999-9999");
+        });
+        // INFO TITLE
+        $('.audio-gide img').mouseenter(function () {
+            let name = '.' + this.className + '-title';
+
+            $('.' + this.className + '-title').show();
+            setTimeout(function () {
+                $('.' + this.className + '-title').hide();
+            }, 1500);
+        });
+        $('.audio-gide img').mouseleave(function () {
+            $('.' + this.className + '-title').hide();
+        });
+        function deleteTicket() {
+            $('#delete-modal').hide();
+            $('.modal-faded').remove();
+            $('.b-table > div').eq(rowDelete).remove();
+            localStorage.removeItem(idTicket);
+            hideModal();
+            calculateTotal();
+        }
+        let fullUrl = window.location.href;
+        function showModal(id) {
+            $(id).removeClass("body-modal-wrap-unactive").hide().fadeIn();
+            $("body").append("<div class='modal-faded'>");
+        }
+        let isValid = false;
+        $(window).bind('scroll');
+        //RADIO CHECK
+        function IsValidOpenPay() {
+            if ($('.audio-gide').css('display') != "none") {
+                if ($('.sup-checkes-flex input:checked').length > 0 && $('.ins-checkes-flex input:checked').length > 0 && $('.audio-checkes input:checked').length > 0) {
+                    isValid = true
+                }
+                else {
+                    isValid = false;
+                }
+            }
+            else {
+                if ($('.sup-checkes-flex input:checked').length > 0 && $('.ins-checkes-flex input:checked').length > 0) {
+                    isValid = true
+                }
+                else {
+                    isValid = false;
+                }
+            }
+        }
+        // CUSTOM MESSAGE VALIDALITY
+        $('input[type=radio]').click(function () {
+            $('.' + this.className).attr('oninvalid', this.setCustomValidity(''));
+        })
+        $('button[type=submit]').click(function (e) {
+            IsValidOpenPay();
+            if (isValid) {
+                e.preventDefault();
+                showModal("#basket-modal");
+
+                $("#payment-modal-slider").slick("slickSetOption", "draggable", false);
+                $("#payment-modal-slider").slick("slickSetOption", "slidesToShow", 1, true);
+                $("#payment-modal-slider").slick("slickSetOption", "swipe", false);
+
+
+                UpdateTiketsDictionaries();
+            }
+
+        })
+        function UpdateTiketsDictionaries() {
+            var tikets = localStorage.getItem("cardData");
+            var cardData = JSON.parse(localStorage.getItem("cardData"));
+            var output = "[";
+            for (variable in cardData) {
+                output += '{Id:"' + variable + '","age":{"adult":' + cardData[variable]["adult"] + ',"child":' + cardData[variable]["child"] + '}},';
+            }
+            output += ']';
+            $("#Tikets").val(output);
+        }
+        if (fullUrl.indexOf('St-Augustine') != -1) {
+            city = "Augistine";
+            $('.select-items div').click();
+            cardData = JSON.parse(localStorage.getItem("cardData2"));
+            $(".top-header-cart-counter").text(localStorage.getItem("cartCounter2"));
+        }
+        let
+            price = 0;
+        count = 0;
+        discount = 0;
+        total = 0;
+        salesTax = 0;
+        subTotal = 0;
+        amountQty = 0;
+        setTimeout(function () { calculateTotal(); }, 500);
+        // CALCULATE TOTAL,SUBTOTAL AND  SALES TAX
+        function calculateTotal() { price = 0, count = 0, discount = 0, total = 0, salesTax = 0, subTotal = 0, amountQty = 0; let t = 0; for (let e = 2; e < $(".b-table > div").length + 1; e++)count = +$(".b-table > div:nth-child(" + e + ") >  div:nth-child(3)").find(".b-table-q-number").text(), price = +$(".b-table > div:nth-child(" + e + ") >  div:nth-child(4)").text().slice(1, 6), discount = +$(".b-table > div:nth-child(" + e + ") >  div:nth-child(5)").text().slice(1, 7), subTotal += count * price - count * discount, amountQty += count, $(".b-table > div:nth-child(" + e + ") >  div:nth-child(4)").text("$" + discount.toFixed(2)), t = count * price - count * discount, console.log(price, discount), $(".b-table > div:nth-child(" + e + ") >  div:nth-child(4)").text("$" + price.toFixed(2)), $(".b-table > div:nth-child(" + e + ") >  div:nth-child(5)").text("$" + discount.toFixed(2)), $(".b-table > div:nth-child(" + e + ") >  div:nth-child(6)").text("$" + t.toFixed(2)); $(".sup-checkes-flex input").eq(0).prop("checked") && (subTotal += 20 * amountQty), $(".ins-checkes-flex input").eq(0).prop("checked") && (subTotal += 2 * amountQty), salesTax = 10.25 * subTotal / 100, total = subTotal + salesTax, $("#basket-p-subtotal").text(subTotal.toFixed(2)), $("#basket-p-sale").text(salesTax.toFixed(2)), $("#basket-p-total").text(total.toFixed(2)) } let rowDelete = 1, ticketName = "", idTicket = 0, context = "", typeTicket = ""; function removeTicket(t) { rowDelete = $(t.target).parent().parent().index(), ticketName = $(".b-table > div:nth-child(" + rowDelete + ") > div:first-child").text(), context = $(t.target), idTicket = $(t.target).parent().attr("qid"), typeTicket = $(t.target).parent().attr("qtype") } var optionSelected = $(".target option:selected")[0]; function OpenUrl(t) { window.open(t, "_blank") } function checkLetter1(t) { let e = textCvv.value, i = e.replace(/[^\d]/g, ""); e !== (i = i.substring(0, 4)) && (textCvv.value = i) } function checkLetter2(t) { let e = textZip.value, i = e.replace(/[^\d]/g, ""); e !== (i = i.substring(0, 5)) && (textZip.value = i) } $("#City").val(optionSelected.value), setTimeout(function () { $(".b-table > div:not(:first-child)").find("div:last-child").val(+$(this).find("div:nth-child(4)").val() - +$(".b-table > div:not(:first-child)").find("div:nth-child(5)").val()) }, 2e3); let txtCardNumber = document.querySelector("#txtCardNumber"); txtCardNumber.addEventListener("input", onChangeTxtCardNumber); let textCvv = document.querySelector("#textCvv"); textCvv.addEventListener("input", checkLetter1); let textZip = document.querySelector("#textZip"); textZip.addEventListener("input", checkLetter2); let txtCarDate = document.querySelector("#txtDate"); txtCarDate.addEventListener("input", onChangeTxtDate); let cardNumberSections, lastValue = ""; $("#basket-c-submit").on("click", function (t) { $("#loaderModal").modal("show"), document.getElementById("SendToPayment").submit() });
+
+        function onChangeTxtDate(e) {
+            let cardNumber = txtCarDate.value;
+            let validMonth = true, validYear = true;
+
+            let formattedCardNumber = cardNumber.replace(/[^\d]/g, "");
+            formattedCardNumber = formattedCardNumber.substring(0, 4);
+
+            if (e.target.value.length == 2) {
+                if (parseInt(e.target.value.substring(0, 2)) < 0 || parseInt(e.target.value.substring(0, 2)) > 12) {
+                    validMonth = false;
+                    e.preventDefault();
+                }
+
+            }
+            if (e.target.value.length == 5) {
+                if (parseInt(e.target.value.substring(3, 5)) < 19 || parseInt(e.target.value.substring(3, 5)) > 28) {
+                    validYear = false;
+                    e.preventDefault();
+                }
+            }
+
+            // Split the card number is groups of 4
+            if (validYear && validMonth)
+                cardNumberSections = formattedCardNumber.match(/\d{1,2}/g);
+
+            if (cardNumberSections !== null) {
+
+                formattedCardNumber = cardNumberSections.join('/');
+                lastValue = formattedCardNumber;
+            }
+
+            // If the formmattedCardNumber is different to what is shown, change the value
+            if (cardNumber !== formattedCardNumber) {
+                txtCarDate.value = lastValue;
+            }
+        }
+
+        let typeCard = 1;
+        // CONFIRM DELETE
+        let first = [];
+        let cardValue, compareValue;
+        //VALIDATION CARD NUMBER
+        function onChangeTxtCardNumber(e) { var r = txtCardNumber.value, t = r.replace(/[^\d]/g, ""); if (1 == typeCard) { var a = (t = t.substring(0, 16)).match(/\d{1,4}/g); null !== a && (t = a.join(" ")), r !== t && (txtCardNumber.value = t) } if (r.length < 4) { typeCard = 1, $("#textCvv").attr("maxlength", "3"); let e = textCvv.value, r = e.replace(/[^\d]/g, ""); e !== (r = r.substring(0, 3)) && (textCvv.value = r), $("#textCvv").attr("placeholder", "111"), $("#txtCardNumber").attr("maxlength", "19") } "37" == r.substring(0, 2) && 1 == typeCard && (typeCard = 2, $("#textCvv").attr("maxlength", "4"), $("#txtCardNumber").attr("maxlength", "17"), $("#textCvv").attr("placeholder", "1111")), 2 == typeCard && r.length > 3 && r.length <= 11 && ((t = r.replace(/[^\d]/g, "")) != r ? (compareValue = t, cardValue = t, first[0] = t.substring(0, 4), t = cardValue, first[1] = t.substring(4, 10), t = (t = first.join(" ")).replace(/\s+/g, " ").trim(), txtCardNumber.value = t) : (compareValue = r, cardValue = r, first[0] = r.substring(0, 4), r = cardValue, first[1] = r.substring(4, 10), r = (r = first.join(" ")).replace(/\s+/g, " ").trim(), txtCardNumber.value = r)), 2 == typeCard && r.length > 10 && ((t = r.replace(/[^\d]/g, "")) != r ? (compareValue = t, cardValue = t, first[0] = t.substring(0, 4), t = cardValue, first[1] = t.substring(4, 10), t = cardValue, first[2] = t.substring(10, 15), t = (t = first.join(" ")).replace(/\s+/g, " ").trim(), txtCardNumber.value = t) : (compareValue = r, cardValue = r, first[0] = r.substring(0, 4), r = cardValue, first[1] = r.substring(4, 10), r = cardValue, first[2] = r.substring(10, 15), r = (r = first.join(" ")).replace(/\s+/g, " ").trim(), txtCardNumber.value = r)) } $(".sup-checkes-flex input").eq(0).prop("checked") ? $("#SuperTiket").val("true") : $("#SuperTiket").val("false"), $(".ins-checkes-flex input").eq(0).prop("checked") ? $("#Insurance").val("true") : $("#Insurance").val("false");
+
+    </script>
+</body>
+</html>
+

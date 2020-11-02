@@ -1,0 +1,40 @@
+﻿body{
+    font-size: 24px;
+}
+
+.t_body {
+    margin-left: 4%;
+    padding: 15px 15px 15px 15px;
+    border: 1px solid;
+    width: 90%;
+    height: 300px;
+    background-color: cornsilk;
+}
+
+.t_head{
+    font-size: 26px;
+    font-weight: bold;
+    text-align:center;
+}
+
+.t_article {
+    padding-top: 3%;
+    padding-left: 15%;
+    height: 36%;
+}
+
+.t_column {
+    float:left;
+    width: 50%;
+}
+
+.t_footer {
+    clear: both;
+    font-size: 15px;
+    text-align: center;
+}
+
+.t_body_row{
+    padding-bottom: 10px;
+}
+

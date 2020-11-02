@@ -1,0 +1,29 @@
+E:/Progects/aggregator/Aggregator.Configuration/bin/Debug/Aggregator.Configuration.dll
+E:/Progects/aggregator/Aggregator.Configuration/bin/Debug/Aggregator.Configuration.pdb
+E:/Progects/aggregator/Aggregator.Configuration/obj/Debug/Aggregator.Configuration.csprojAssemblyReference.cache
+E:/Progects/aggregator/Aggregator.Configuration/obj/Debug/Aggregator.Configuration.csproj.CoreCompileInputs.cache
+E:/Progects/aggregator/Aggregator.Configuration/obj/Debug/Aggregator.Configuration.dll
+E:/Progects/aggregator/Aggregator.Configuration/obj/Debug/Aggregator.Configuration.pdb
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Configuration/bin/Debug/Aggregator.Configuration.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Configuration/bin/Debug/Aggregator.Configuration.pdb
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Configuration/obj/Debug/Aggregator.Configuration.csprojAssemblyReference.cache
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Configuration/obj/Debug/Aggregator.Configuration.csproj.CoreCompileInputs.cache
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Configuration/obj/Debug/Aggregator.Configuration.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Configuration/obj/Debug/Aggregator.Configuration.pdb
+C:\Users\gurau\Desktop\aggregator\Aggregator.Configuration\bin\Debug\Aggregator.Configuration.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Configuration\bin\Debug\Aggregator.Configuration.pdb
+C:\Users\gurau\Desktop\aggregator\Aggregator.Configuration\obj\Debug\Aggregator.Configuration.csprojAssemblyReference.cache
+C:\Users\gurau\Desktop\aggregator\Aggregator.Configuration\obj\Debug\Aggregator.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\gurau\Desktop\aggregator\Aggregator.Configuration\obj\Debug\Aggregator.Configuration.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Configuration\obj\Debug\Aggregator.Configuration.pdb
+C:\Users\gurau\source\repos\aggregator\Aggregator.Configuration\bin\Debug\Aggregator.Configuration.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Configuration\bin\Debug\Aggregator.Configuration.pdb
+C:\Users\gurau\source\repos\aggregator\Aggregator.Configuration\obj\Debug\Aggregator.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\gurau\source\repos\aggregator\Aggregator.Configuration\obj\Debug\Aggregator.Configuration.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Configuration\obj\Debug\Aggregator.Configuration.pdb
+G:\DotNet\last\aggregator\Aggregator.Configuration\bin\Debug\Aggregator.Configuration.dll
+G:\DotNet\last\aggregator\Aggregator.Configuration\bin\Debug\Aggregator.Configuration.pdb
+G:\DotNet\last\aggregator\Aggregator.Configuration\obj\Debug\Aggregator.Configuration.csprojAssemblyReference.cache
+G:\DotNet\last\aggregator\Aggregator.Configuration\obj\Debug\Aggregator.Configuration.csproj.CoreCompileInputs.cache
+G:\DotNet\last\aggregator\Aggregator.Configuration\obj\Debug\Aggregator.Configuration.dll
+G:\DotNet\last\aggregator\Aggregator.Configuration\obj\Debug\Aggregator.Configuration.pdb

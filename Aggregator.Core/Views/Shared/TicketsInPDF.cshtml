@@ -1,0 +1,74 @@
+﻿@model Aggregator.Models.TicketsToPDFViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tickets</title>
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/stylePdf.css">
+
+</head>
+<body class="page">
+    <div class="page__row">
+        @foreach (var item in Model.Tickets)
+        {
+            <div class="page__cell">
+                <div class="page__cell-logo">
+                    <!-- musiem if illusions -->
+                    @if (item.TiketId == "8838d436-357c-43fa-addb-4a4f8ec224a2")
+                    {
+                        <img class="img" src="~/images/illusion.png">
+                    }
+                    <!-- Axe throwing-->
+                    @if (item.TiketId == "ab436a24-09ae-4e89-b8b7-2a6b3ed98165")
+                    {
+                        <img class="img" src="~/images/range.png">
+                    }
+                    <!-- Medieval Torture Museum-->
+                    @if (item.TiketId == "f85d41b3-6abc-4887-929c-5afc8a45f2f6")
+                    {
+                        <img class="img" src="~/images/torture.png">
+                    }
+                    <!-- Micro Masterpieces-->
+                    @if (item.TiketId == "f9e2013b-69eb-4374-ae7a-d65459d1fdbc")
+                    {
+                        <img class="img" src="~/images/micro.png">
+                    }
+                    <!-- Other-->
+                    @if (item.TiketId == "8dc10747-ac92-4d1f-9ba5-c4bf21c21b3f" || item.TiketId == "bac57114-9277-457c-accd-06f8f09470d1" || item.TiketId == "cef3f728-f9a1-4963-bc89-a94534563b1a" || item.TiketId == "8838d436-357c-43fa-addb-4a4f8ec224a2")
+                    {
+                        <img class="img" src="~/images/micro.png">
+                    }
+                </div>
+                <div class="page__cell-item1">
+                    <div class="item1-headline">TICKET</div>
+                    <div class="item1-name">@item.TicketName</div>
+                    <div class="item1-line">
+                        <div class="item1-soname">@item.Name @item.Surname</div>
+                        <div class="item">@item.AgeCategory</div>
+                    </div>
+                    <div class="item1-phone"><img src="~/images/phone.png">&nbsp;+1 904 373 7777</div>
+                    <div class="item1-line1">
+                        <div class="line-adress"><img src="~/images/adress.png">&nbsp;100 Saint George street, <br>&nbsp;&nbsp;&nbsp;&nbsp; @item.City.</div>
+                        <div class="line-time">Mon-Th, Sun:<br><span class="time">10am – 11pm</span></div>
+                    </div>
+                </div>
+                <div class="page__cell-item2">
+                    <div class="item2-code">
+                        @Html.Raw("<img  alt='' src=\"data:image/jpeg;base64," + Convert.ToBase64String(item.ImageQr) + "\" style=\" height:180px; width:180px;\" />")
+                    </div>
+                    <div class="item2-text">1000 0000 0000 0009</div>
+                    <div class="line-time time1">Mon-Th, Sun:<br><span class="time">10am – 11pm</span></div>
+                </div>
+            </div>
+        }
+    </div>
+</body>
+</html>

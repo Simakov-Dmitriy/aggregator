@@ -1,0 +1,6 @@
+E:\Progects\aggregator\Aggregator.Configuration\bin\Release\Aggregator.Configuration.dll
+E:\Progects\aggregator\Aggregator.Configuration\bin\Release\Aggregator.Configuration.pdb
+E:\Progects\aggregator\Aggregator.Configuration\obj\Release\Aggregator.Configuration.csprojAssemblyReference.cache
+E:\Progects\aggregator\Aggregator.Configuration\obj\Release\Aggregator.Configuration.csproj.CoreCompileInputs.cache
+E:\Progects\aggregator\Aggregator.Configuration\obj\Release\Aggregator.Configuration.dll
+E:\Progects\aggregator\Aggregator.Configuration\obj\Release\Aggregator.Configuration.pdb

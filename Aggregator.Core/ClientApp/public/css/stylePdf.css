@@ -1,0 +1,128 @@
+@import url("normalizePdf.css");
+
+*,
+*::after,
+*::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.clearfix::after,
+.header::after,
+.grid::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+html {
+	font-size: 100%;
+}
+body {
+	margin: 0;
+}
+.img{
+    width: 100%;
+}
+.page{
+    padding: 50px 65px;
+    width: 2480px;
+}
+.page__row{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.page__cell {
+    width: 1144px;
+    height: 394px;
+    background-image: url(../images/bg.png);
+    margin: 10px;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.page__cell-logo{
+    width: 274px;
+}
+.page__cell-item1{
+    width: 620px;
+    height: 310px;
+}
+.item1-headline{
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    color: #000;
+    font-size: 48px;
+    padding-bottom: 10px;
+}
+.item1-name{
+    font-family: Raleway, sans-serif;
+    font-weight: 400;
+    color: #787878;
+    font-size: 30px;
+    padding-bottom: 5px;
+}
+.item1-line{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px dotted #787878;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+}
+.item1-soname{
+    font-family: Raleway, sans-serif;
+    font-weight: 400;
+    color: #000;
+    font-size: 48px;
+}
+.item{
+    padding: 0 8px;
+    background-color: black;
+    color: white;
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 30px
+}
+.item1-phone{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #000;
+    font-size: 30px;
+    padding-bottom: 5px;
+}
+.item1-line1{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.line-adress{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #000;
+    font-size: 30px;
+}
+.line-time{
+    font-family: Raleway, sans-serif;
+    font-weight: 400;
+    color: #000;
+    font-size: 30px;
+}
+.time{
+    font-weight: 700;
+}
+.page__cell-item2{
+    height: 310px;
+}
+.item2-text{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: black;
+    font-weight: 400;
+    margin-top: -12px;
+}
+.time1{
+    margin-top: 40px;
+}

@@ -1,0 +1,295 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
+    <meta charSet="UTF-8" />
+    <title>BENAUR </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="stylesheet" href="%PUBLIC_URL%/css/slick.css" />
+    <link rel="stylesheet" href="%PUBLIC_URL%/css/slick-theme.css" />
+    <link rel="stylesheet" href="%PUBLIC_URL%/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="%PUBLIC_URL%/css/style.min.css" />
+    <link rel="stylesheet" href="%PUBLIC_URL%/css/media.min.css" />
+    <link rel="shortcut icon" href="/images/fav_agr.webp" type="image/x-icon" />
+
+
+    <script src="%PUBLIC_URL%/lib/jquery/dist/jquery.min.js"></script>
+    <script src="%PUBLIC_URL%/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="%PUBLIC_URL%/libs/slick.min.js"></script>
+    <script src="%PUBLIC_URL%/libs/jquery.maskedinput.js"></script>
+    <script src="%PUBLIC_URL%/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <base href="%PUBLIC_URL%/" />
+    <!--
+      manifest.json provides metadata used when your web app is added to the
+      homescreen on Android. See https://developers.google.com/web/fundamentals/engage-and-retain/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>Aggregator</title>
+  </head>
+  <body>
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <div id="root"></div>
+    <script async src="%PUBLIC_URL%/js/basket.min.js"></script>
+    <script async>
+
+      $(document).ready(function () {
+          // Show the Modal on load
+          let li = $('#valid h4');
+          if (li.length > 0) {
+              $("#messegesModal").modal("show");
+          }
+          $("#phone").mask("(999) 999-9999");
+      });
+      // INFO TITLE
+      $('.audio-gide img').mouseenter(function () {
+          let name = '.' + this.className + '-title';
+
+          $('.' + this.className + '-title').show();
+          setTimeout(function () {
+              $('.' + this.className + '-title').hide();
+          }, 1500);
+      });
+      $('.audio-gide img').mouseleave(function () {
+          $('.' + this.className + '-title').hide();
+      });
+      function deleteTicket() {
+          $('#delete-modal').hide();
+          $('.modal-faded').remove();
+          $('.b-table > div').eq(rowDelete).remove();
+          localStorage.removeItem(idTicket);
+          hideModal();
+          calculateTotal();
+      }
+      let fullUrl = window.location.href;
+      function showModal(id) {
+          $(id).removeClass("body-modal-wrap-unactive").hide().fadeIn();
+          $("body").append("<div class='modal-faded'>");
+      }
+      let isValid = false;
+      $(window).bind('scroll');
+      //RADIO CHECK
+      function IsValidOpenPay() {
+          if ($('.audio-gide').css('display') != "none") {
+              if ($('.sup-checkes-flex input:checked').length > 0 && $('.ins-checkes-flex input:checked').length > 0 && $('.audio-checkes input:checked').length > 0) {
+                  isValid = true
+              }
+              else {
+                  isValid = false;
+              }
+          }
+          else {
+              if ($('.sup-checkes-flex input:checked').length > 0 && $('.ins-checkes-flex input:checked').length > 0) {
+                  isValid = true
+              }
+              else {
+                  isValid = false;
+              }
+          }
+      }
+      // CUSTOM MESSAGE VALIDALITY
+      $('input[type=radio]').click(function () {
+          $('.' + this.className).attr('oninvalid', this.setCustomValidity(''));
+      })
+      $('button[type=submit]').click(function (e) {
+          IsValidOpenPay();
+          if (isValid) {
+              e.preventDefault();
+              showModal("#basket-modal");
+            
+              $("#payment-modal-slider").slick("slickSetOption", "draggable",false);
+              $("#payment-modal-slider").slick("slickSetOption", "slidesToShow", 1, true);
+              $("#payment-modal-slider").slick("slickSetOption", "swipe", false);
+
+      
+              UpdateTiketsDictionaries();
+          }
+
+      })
+
+      // MY FUNCTION CHECKPARAMS SLIDER
+      function checkParams() {
+          var firstname = $('#firstname').val()
+          var lastname = $('#lastname').val()
+          var email = $('#email').val()
+          var phone = $('#phone').val()
+
+          // console.log(firstname, lastname, email, phone)
+
+          if (firstname.length >= 2 && lastname.length >= 2 && email.length >= 5 && phone.length >= 10) {
+              console.log(1)
+              $('#basket-c-next').removeClass('disable').addClass('enable');
+              
+          } else {
+              $('#basket-c-next').addClass('disable')
+          }
+
+
+
+      }
+
+      function UpdateTiketsDictionaries() {
+          var tikets = localStorage.getItem("cardData");
+          var cardData = JSON.parse(localStorage.getItem("cardData"));
+          var output = "[";
+          for (variable in cardData) {
+              output += '{Id:"' + variable + '","age":{"adult":' + cardData[variable]["adult"] + ',"child":' + cardData[variable]["child"] + '}},';
+          }
+          output += ']';
+          $("#Tikets").val(output);
+      }
+      if (fullUrl.indexOf('St-Augustine') != -1) {
+          city = "Augistine";
+          $('.select-items div').click();
+          cardData = JSON.parse(localStorage.getItem("cardData2"));
+          $(".top-header-cart-counter").text(localStorage.getItem("cartCounter2"));
+      }
+      let price = 0,
+      count = 0,
+      discount = 0,
+      total = 0,
+      salesTax = 0,
+      subTotal = 0,
+      amountQty = 0;
+      setTimeout(function () { calculateTotal(); }, 500);
+
+      // CALCULATE TOTAL,SUBTOTAL AND  SALES TAX
+      function calculateTotal() { 
+          price = 0, count = 0, discount = 0, total = 0, salesTax = 0, subTotal = 0, amountQty = 0; 
+          let t = 0; 
+          for (let e = 2; e < $(".b-table > div").length + 1; e++)
+            count = +$(".b-table > div:nth-child(" + e + ") >  div:nth-child(3)").find(".b-table-q-number").text(), 
+            price = +$(".b-table > div:nth-child(" + e + ") >  div:nth-child(4)").text().slice(1, 6),
+            discount = +$(".b-table > div:nth-child(" + e + ") >  div:nth-child(5)").text().slice(1, 7),
+            subTotal += count * price - count * discount,
+            amountQty += count,
+            $(".b-table > div:nth-child(" + e + ") >  div:nth-child(4)").text("$" + discount.toFixed(2)),
+            t = count * price - count * discount,
+            console.log(price, discount),
+            $(".b-table > div:nth-child(" + e + ") >  div:nth-child(4)").text("$" + price.toFixed(2)),
+            $(".b-table > div:nth-child(" + e + ") >  div:nth-child(5)").text("$" + discount.toFixed(2)),
+            $(".b-table > div:nth-child(" + e + ") >  div:nth-child(6)").text("$" + t.toFixed(2));
+
+            $(".sup-checkes-flex input").eq(0).prop("checked") && (subTotal += 20 * amountQty),
+            $(".ins-checkes-flex input").eq(0).prop("checked") && (subTotal += 2 * amountQty),
+            salesTax = 10.25 * subTotal / 100, total = subTotal + salesTax,
+            $("#basket-p-subtotal").text(subTotal.toFixed(2)), 
+            $("#basket-p-sale").text(salesTax.toFixed(2)),
+            $("#basket-p-total").text(total.toFixed(2)) 
+          }
+            
+          let rowDelete = 1, 
+          ticketName = "",
+           idTicket = 0, 
+           context = "", 
+           typeTicket = ""; 
+           
+          function removeTicket(t) { 
+              rowDelete = $(t.target).parent().parent().index(), 
+              ticketName = $(".b-table > div:nth-child(" + rowDelete + ") > div:first-child").text(), 
+              context = $(t.target), idTicket = $(t.target).parent().attr("qid"), 
+              typeTicket = $(t.target).parent().attr("qtype") 
+          } 
+          var optionSelected = $(".target option:selected")[0]; 
+          function OpenUrl(t) { 
+              window.open(t, "_blank") 
+          } 
+          function checkLetter1(t) { 
+              let e = textCvv.value, 
+              i = e.replace(/[^\d]/g, "");
+              e !== (i = i.substring(0, 4)) && (textCvv.value = i) 
+          } 
+          function checkLetter2(t) { 
+              let e = textZip.value, 
+              i = e.replace(/[^\d]/g, ""); 
+              e !== (i = i.substring(0, 5)) && (textZip.value = i) 
+          } 
+          $("#City").val(optionSelected.value), 
+          setTimeout(function () { 
+              $(".b-table > div:not(:first-child)").find("div:last-child").val(+$(this).find("div:nth-child(4)").val() - +$(".b-table > div:not(:first-child)").find("div:nth-child(5)").val()) 
+          }, 2e3); 
+          let txtCardNumber = document.querySelector("#txtCardNumber"); 
+          txtCardNumber.addEventListener("input", onChangeTxtCardNumber); 
+          let textCvv = document.querySelector("#textCvv"); 
+          textCvv.addEventListener("input", checkLetter1); 
+          let textZip = document.querySelector("#textZip"); 
+          textZip.addEventListener("input", checkLetter2); 
+          let txtCarDate = document.querySelector("#txtDate"); 
+          txtCarDate.addEventListener("input", onChangeTxtDate); 
+          let cardNumberSections, lastValue = ""; 
+          $("#basket-c-submit").on("click", function (t) { 
+              $("#loaderModal").modal("show"), 
+              document.getElementById("SendToPayment").submit() 
+          });
+
+      function onChangeTxtDate(e) {
+          let cardNumber = txtCarDate.value;
+          let validMonth = true, validYear = true;
+         
+          let formattedCardNumber = cardNumber.replace(/[^\d]/g, "");
+          formattedCardNumber = formattedCardNumber.substring(0, 4);
+
+          if (e.target.value.length == 2) {
+              if (parseInt(e.target.value.substring(0, 2)) < 0 || parseInt(e.target.value.substring(0, 2)) > 12) {
+                  validMonth = false;
+                  e.preventDefault();
+              }
+
+          }
+          if (e.target.value.length == 5) {
+              if (parseInt(e.target.value.substring(3, 5)) < 19 || parseInt(e.target.value.substring(3, 5)) > 28) {
+                  validYear = false;
+                  e.preventDefault();
+              }
+          }
+
+          // Split the card number is groups of 4
+          if (validYear && validMonth)
+              cardNumberSections = formattedCardNumber.match(/\d{1,2}/g);
+
+          if (cardNumberSections !== null) {
+
+              formattedCardNumber = cardNumberSections.join('/');
+              lastValue = formattedCardNumber;
+          }
+
+          // If the formmattedCardNumber is different to what is shown, change the value
+          if (cardNumber !== formattedCardNumber) {
+              txtCarDate.value = lastValue;
+          }
+      }
+
+      let typeCard = 1;
+      // CONFIRM DELETE
+      let first = [];
+      let cardValue, compareValue;
+      //VALIDATION CARD NUMBER
+      function onChangeTxtCardNumber(e) { var r = txtCardNumber.value, t = r.replace(/[^\d]/g, ""); if (1 == typeCard) { var a = (t = t.substring(0, 16)).match(/\d{1,4}/g); null !== a && (t = a.join(" ")), r !== t && (txtCardNumber.value = t) } if (r.length < 4) { typeCard = 1, $("#textCvv").attr("maxlength", "3"); let e = textCvv.value, r = e.replace(/[^\d]/g, ""); e !== (r = r.substring(0, 3)) && (textCvv.value = r), $("#textCvv").attr("placeholder", "111"), $("#txtCardNumber").attr("maxlength", "19") } "37" == r.substring(0, 2) && 1 == typeCard && (typeCard = 2, $("#textCvv").attr("maxlength", "4"), $("#txtCardNumber").attr("maxlength", "17"), $("#textCvv").attr("placeholder", "1111")), 2 == typeCard && r.length > 3 && r.length <= 11 && ((t = r.replace(/[^\d]/g, "")) != r ? (compareValue = t, cardValue = t, first[0] = t.substring(0, 4), t = cardValue, first[1] = t.substring(4, 10), t = (t = first.join(" ")).replace(/\s+/g, " ").trim(), txtCardNumber.value = t) : (compareValue = r, cardValue = r, first[0] = r.substring(0, 4), r = cardValue, first[1] = r.substring(4, 10), r = (r = first.join(" ")).replace(/\s+/g, " ").trim(), txtCardNumber.value = r)), 2 == typeCard && r.length > 10 && ((t = r.replace(/[^\d]/g, "")) != r ? (compareValue = t, cardValue = t, first[0] = t.substring(0, 4), t = cardValue, first[1] = t.substring(4, 10), t = cardValue, first[2] = t.substring(10, 15), t = (t = first.join(" ")).replace(/\s+/g, " ").trim(), txtCardNumber.value = t) : (compareValue = r, cardValue = r, first[0] = r.substring(0, 4), r = cardValue, first[1] = r.substring(4, 10), r = cardValue, first[2] = r.substring(10, 15), r = (r = first.join(" ")).replace(/\s+/g, " ").trim(), txtCardNumber.value = r)) } $(".sup-checkes-flex input").eq(0).prop("checked") ? $("#SuperTiket").val("true") : $("#SuperTiket").val("false"), $(".ins-checkes-flex input").eq(0).prop("checked") ? $("#Insurance").val("true") : $("#Insurance").val("false");
+
+  </script>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  </body>
+</html>

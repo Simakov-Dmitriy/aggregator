@@ -1,0 +1,715 @@
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Aggregator.Domain.dll.config
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Aggregator.Domain.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Aggregator.Domain.pdb
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Win32.Primitives.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/netstandard.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.AppContext.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Collections.Concurrent.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Collections.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Collections.NonGeneric.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Collections.Specialized.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.ComponentModel.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.ComponentModel.Primitives.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.ComponentModel.TypeConverter.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Console.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Data.Common.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.Contracts.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.Debug.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.FileVersionInfo.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.Process.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.StackTrace.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.TextWriterTraceListener.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.Tools.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.TraceSource.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.Tracing.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Drawing.Primitives.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Dynamic.Runtime.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Globalization.Calendars.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Globalization.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Globalization.Extensions.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.IO.Compression.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.IO.Compression.ZipFile.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.IO.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.IO.FileSystem.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.IO.FileSystem.DriveInfo.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.IO.FileSystem.Primitives.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.IO.FileSystem.Watcher.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.IO.IsolatedStorage.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.IO.MemoryMappedFiles.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.IO.Pipes.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.IO.UnmanagedMemoryStream.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Linq.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Linq.Expressions.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Linq.Parallel.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Linq.Queryable.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Net.Http.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Net.NameResolution.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Net.NetworkInformation.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Net.Ping.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Net.Primitives.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Net.Requests.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Net.Security.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Net.Sockets.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Net.WebHeaderCollection.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Net.WebSockets.Client.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Net.WebSockets.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.ObjectModel.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Reflection.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Reflection.Extensions.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Reflection.Primitives.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Resources.Reader.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Resources.ResourceManager.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Resources.Writer.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Runtime.CompilerServices.VisualC.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Runtime.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Runtime.Extensions.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Runtime.Handles.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Runtime.InteropServices.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Runtime.Numerics.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Runtime.Serialization.Formatters.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Runtime.Serialization.Json.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Runtime.Serialization.Primitives.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Runtime.Serialization.Xml.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Security.Claims.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Security.Cryptography.Algorithms.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Security.Cryptography.Csp.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Security.Cryptography.Encoding.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Security.Cryptography.Primitives.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Security.Principal.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Security.SecureString.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Text.Encoding.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Text.Encoding.Extensions.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Text.RegularExpressions.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Threading.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Threading.Overlapped.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Threading.Tasks.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Threading.Tasks.Parallel.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Threading.Thread.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Threading.ThreadPool.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Threading.Timer.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.ValueTuple.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Xml.ReaderWriter.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Xml.XDocument.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Xml.XmlDocument.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Xml.XmlSerializer.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Xml.XPath.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Xml.XPath.XDocument.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Dapper.Contrib.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Dapper.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.AspNet.Identity.Core.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.AspNetCore.Cryptography.Internal.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Configuration.Abstractions.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Configuration.Binder.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Configuration.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Identity.Core.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Identity.Stores.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Logging.Abstractions.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Logging.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Options.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Primitives.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Buffers.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.ComponentModel.Annotations.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Memory.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Numerics.Vectors.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Dapper.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Dapper.Contrib.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.AspNetCore.Cryptography.Internal.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Configuration.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Configuration.Abstractions.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Configuration.Binder.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Identity.Core.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Identity.Stores.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Logging.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Logging.Abstractions.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Options.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Primitives.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Buffers.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Memory.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Numerics.Vectors.xml
+E:/Progects/aggregator/Aggregator.Domain/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+E:/Progects/aggregator/Aggregator.Domain/obj/Debug/Aggregator.Domain.csprojAssemblyReference.cache
+E:/Progects/aggregator/Aggregator.Domain/obj/Debug/Aggregator.Domain.csproj.CoreCompileInputs.cache
+E:/Progects/aggregator/Aggregator.Domain/obj/Debug/Aggregator.Domain.csproj.CopyComplete
+E:/Progects/aggregator/Aggregator.Domain/obj/Debug/Aggregator.Domain.dll
+E:/Progects/aggregator/Aggregator.Domain/obj/Debug/Aggregator.Domain.pdb
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Aggregator.Domain.dll.config
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Aggregator.Domain.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Aggregator.Domain.pdb
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Win32.Primitives.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/netstandard.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.AppContext.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Collections.Concurrent.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Collections.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Collections.NonGeneric.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Collections.Specialized.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.ComponentModel.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.ComponentModel.Primitives.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.ComponentModel.TypeConverter.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Console.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Data.Common.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.Contracts.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.Debug.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.FileVersionInfo.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.Process.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.StackTrace.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.TextWriterTraceListener.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.Tools.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.TraceSource.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Diagnostics.Tracing.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Drawing.Primitives.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Dynamic.Runtime.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Globalization.Calendars.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Globalization.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Globalization.Extensions.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.IO.Compression.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.IO.Compression.ZipFile.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.IO.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.IO.FileSystem.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.IO.FileSystem.DriveInfo.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.IO.FileSystem.Primitives.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.IO.FileSystem.Watcher.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.IO.IsolatedStorage.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.IO.MemoryMappedFiles.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.IO.Pipes.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.IO.UnmanagedMemoryStream.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Linq.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Linq.Expressions.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Linq.Parallel.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Linq.Queryable.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Net.Http.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Net.NameResolution.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Net.NetworkInformation.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Net.Ping.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Net.Primitives.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Net.Requests.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Net.Security.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Net.Sockets.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Net.WebHeaderCollection.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Net.WebSockets.Client.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Net.WebSockets.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.ObjectModel.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Reflection.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Reflection.Extensions.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Reflection.Primitives.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Resources.Reader.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Resources.ResourceManager.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Resources.Writer.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Runtime.CompilerServices.VisualC.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Runtime.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Runtime.Extensions.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Runtime.Handles.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Runtime.InteropServices.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Runtime.Numerics.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Runtime.Serialization.Formatters.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Runtime.Serialization.Json.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Runtime.Serialization.Primitives.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Runtime.Serialization.Xml.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Security.Claims.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Security.Cryptography.Csp.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Security.Cryptography.Encoding.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Security.Cryptography.Primitives.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Security.Principal.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Security.SecureString.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Text.Encoding.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Text.Encoding.Extensions.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Text.RegularExpressions.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Threading.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Threading.Overlapped.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Threading.Tasks.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Threading.Tasks.Parallel.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Threading.Thread.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Threading.ThreadPool.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Threading.Timer.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.ValueTuple.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Xml.ReaderWriter.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Xml.XDocument.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Xml.XmlDocument.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Xml.XmlSerializer.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Xml.XPath.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Xml.XPath.XDocument.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Dapper.Contrib.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Dapper.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.AspNet.Identity.Core.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Configuration.Binder.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Configuration.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Identity.Core.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Identity.Stores.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Logging.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Options.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Primitives.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Buffers.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.ComponentModel.Annotations.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Memory.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Numerics.Vectors.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Dapper.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Dapper.Contrib.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.AspNet.Identity.Core.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.AspNetCore.Cryptography.Internal.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Configuration.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Configuration.Abstractions.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Configuration.Binder.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Identity.Core.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Identity.Stores.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Logging.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Logging.Abstractions.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Options.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/Microsoft.Extensions.Primitives.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Buffers.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Memory.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Numerics.Vectors.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/obj/Debug/Aggregator.Domain.csprojAssemblyReference.cache
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/obj/Debug/Aggregator.Domain.csproj.CoreCompileInputs.cache
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/obj/Debug/Aggregator.Domain.csproj.CopyComplete
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/obj/Debug/Aggregator.Domain.dll
+/Users/petropasteruk/Downloads/Агрегатор /aggregator/Aggregator.Domain/obj/Debug/Aggregator.Domain.pdb
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Aggregator.Domain.dll.config
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Aggregator.Domain.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Aggregator.Domain.pdb
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\netstandard.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.AppContext.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Collections.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Collections.Specialized.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.ComponentModel.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Console.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Data.Common.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Globalization.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.IO.Compression.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.IO.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.IO.FileSystem.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.IO.Pipes.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Linq.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Linq.Expressions.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Linq.Parallel.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Linq.Queryable.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Net.Http.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Net.NameResolution.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Net.Ping.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Net.Primitives.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Net.Requests.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Net.Security.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Net.Sockets.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Net.WebSockets.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.ObjectModel.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Reflection.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Resources.Reader.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Resources.Writer.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Handles.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Security.Claims.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Security.Principal.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Security.SecureString.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Text.Encoding.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Threading.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Threading.Tasks.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Threading.Thread.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Threading.Timer.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.ValueTuple.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Xml.XDocument.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Xml.XPath.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Dapper.Contrib.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Dapper.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Buffers.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Memory.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Dapper.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Dapper.Contrib.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Buffers.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Memory.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\obj\Debug\Aggregator.Domain.csprojAssemblyReference.cache
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\obj\Debug\Aggregator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\obj\Debug\Aggregator.Domain.csproj.CopyComplete
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\obj\Debug\Aggregator.Domain.dll
+C:\Users\gurau\Desktop\aggregator\Aggregator.Domain\obj\Debug\Aggregator.Domain.pdb
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Aggregator.Domain.dll.config
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Aggregator.Domain.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Aggregator.Domain.pdb
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\netstandard.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.AppContext.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Collections.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Collections.Specialized.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.ComponentModel.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Console.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Data.Common.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Globalization.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.IO.Compression.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.IO.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.IO.FileSystem.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.IO.Pipes.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Linq.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Linq.Expressions.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Linq.Parallel.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Linq.Queryable.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Net.Http.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Net.NameResolution.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Net.Ping.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Net.Primitives.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Net.Requests.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Net.Security.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Net.Sockets.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Net.WebSockets.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.ObjectModel.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Reflection.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Resources.Reader.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Resources.Writer.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Handles.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Security.Claims.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Security.Principal.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Security.SecureString.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Text.Encoding.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Threading.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Threading.Tasks.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Threading.Thread.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Threading.Timer.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.ValueTuple.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Xml.XDocument.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Xml.XPath.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Dapper.Contrib.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Dapper.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Buffers.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Memory.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Dapper.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Dapper.Contrib.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Buffers.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Memory.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\obj\Debug\Aggregator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\obj\Debug\Aggregator.Domain.csproj.CopyComplete
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\obj\Debug\Aggregator.Domain.dll
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\obj\Debug\Aggregator.Domain.pdb
+C:\Users\gurau\source\repos\aggregator\Aggregator.Domain\obj\Debug\Aggregator.Domain.csprojAssemblyReference.cache
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Aggregator.Domain.dll.config
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Aggregator.Domain.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Aggregator.Domain.pdb
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\netstandard.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.AppContext.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Collections.Concurrent.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Collections.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Collections.NonGeneric.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Collections.Specialized.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.ComponentModel.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.ComponentModel.Primitives.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Console.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Data.Common.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.Contracts.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.Debug.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.Process.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.Tools.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Diagnostics.Tracing.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Drawing.Primitives.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Dynamic.Runtime.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Globalization.Calendars.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Globalization.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Globalization.Extensions.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.IO.Compression.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.IO.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.IO.FileSystem.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.IO.IsolatedStorage.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.IO.Pipes.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Linq.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Linq.Expressions.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Linq.Parallel.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Linq.Queryable.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Net.Http.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Net.NameResolution.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Net.NetworkInformation.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Net.Ping.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Net.Primitives.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Net.Requests.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Net.Security.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Net.Sockets.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Net.WebSockets.Client.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Net.WebSockets.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.ObjectModel.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Reflection.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Reflection.Extensions.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Reflection.Primitives.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Resources.Reader.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Resources.ResourceManager.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Resources.Writer.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Extensions.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Handles.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.InteropServices.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Numerics.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Security.Claims.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Security.Principal.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Security.SecureString.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Text.Encoding.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Text.RegularExpressions.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Threading.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Threading.Overlapped.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Threading.Tasks.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Threading.Thread.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Threading.ThreadPool.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Threading.Timer.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.ValueTuple.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Xml.ReaderWriter.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Xml.XDocument.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Xml.XmlDocument.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Xml.XmlSerializer.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Xml.XPath.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Dapper.Contrib.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Dapper.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Identity.Core.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Options.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Buffers.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.ComponentModel.Annotations.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Memory.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Numerics.Vectors.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Dapper.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Dapper.Contrib.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Identity.Core.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Identity.Stores.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Logging.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Options.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Buffers.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Memory.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Numerics.Vectors.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\DotNet\last\aggregator\Aggregator.Domain\obj\Debug\Aggregator.Domain.csprojAssemblyReference.cache
+G:\DotNet\last\aggregator\Aggregator.Domain\obj\Debug\Aggregator.Domain.csproj.CoreCompileInputs.cache
+G:\DotNet\last\aggregator\Aggregator.Domain\obj\Debug\Aggregator.Domain.csproj.CopyComplete
+G:\DotNet\last\aggregator\Aggregator.Domain\obj\Debug\Aggregator.Domain.dll
+G:\DotNet\last\aggregator\Aggregator.Domain\obj\Debug\Aggregator.Domain.pdb
